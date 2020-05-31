@@ -1,0 +1,13 @@
+
+                                We’re always keen to hear from passionate and interesting people who would love to be involved in the festival.
+Deadline for submissions: 15th May 2020
+If you’d like to get more involved at CogX, please get in touch at cogx@cognitionx.io
+
+
+
+  hbspt.forms.create({
+	portalId: "3321002",
+	formId: "52882ca3-bb87-4cf7-aad8-48dc428f2506"
+});
+
+                            

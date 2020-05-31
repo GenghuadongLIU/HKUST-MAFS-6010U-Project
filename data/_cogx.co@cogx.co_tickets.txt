@@ -1,0 +1,211 @@
+
+        CogX2020 Tickets
+        
+                                                    
+        
+        
+            3 Day Passes
+            
+                                    
+                        
+                            Festival Pass
+                            
+                                £295
+                                
+                            
+                            Ticket includes:
+                            
+                                Access to All Topic Stages
+Access to Networking & Scheduling app
+Access to exhibitions
+*No access to Meet the Speaker or Priority Access
+                            
+                            Buy
+                            
+                        
+                    
+                                    
+                        
+                            Expo Pass
+                            
+                                £0
+                                £45
+                            
+                            Ticket includes:
+                            
+                                Access to Networking & Scheduling app
+Access to exhibitions
+*No access to topics
+                            
+                            Buy
+                            
+                        
+                    
+                                    
+                        
+                            GLS Pass
+                            
+                                £4,995
+                                
+                            
+                            Ticket includes:
+                            
+                                Access to GLS Concierge Desk
+Access to CXO Exchange
+Access to Chatham House Stage
+Access to Lounge
+Meet the Speaker Access (Leadership stage + topic stages)
+Priority access & Breakout Q&A (Leadership stage + topic stages)
+Access to All Topic Stages
+Access to Networking & Scheduling app
+Access to exhibitions
+                            
+                            Buy
+                            
+                        
+                    
+                                    
+                        
+                            Gold Pass
+                            
+                                £2,495
+                                
+                            
+                            Ticket includes:
+                            
+                                Meet the Speaker Access (Leadership stage + topic stages)
+Priority access & Breakout Q&A (Leadership stage + topic stages)
+Access to All Topic Stages
+Access to Networking & Scheduling app
+Access to exhibitions
+*No access to Lounge, CXO Exchange, Chatham House Stage or GLS Concierge Desk
+                            
+                            Buy
+                            
+                        
+                    
+                                    
+                        
+                            Festival Priority
+                            
+                                £1,495
+                                
+                            
+                            Ticket includes:
+                            
+                                Meet the Speaker Access (all topic stages)
+Priority access & Breakout Q&A (all topic stages)
+Access to All Topic Stages
+Access to Networking & Scheduling app
+Access to exhibitions
+*No access to Leadership Stage
+                            
+                            Buy
+                            
+                        
+                    
+                                    
+                        
+                            Topic Priority
+                            
+                                £1,195
+                                
+                            
+                            Ticket includes:
+                            
+                                Meet the Speaker Access (2 topics)
+Priority access & Breakout Q&A (2 topics)
+Access to All Topic Stages
+Access to Networking & Scheduling app
+Access to exhibitions
+*No access to Leadership Stage
+                            
+                            Buy
+                            
+                        
+                    
+                            
+        
+    
+    
+
+       
+           
+                
+                    
+                        Contact Us
+                    
+                    
+                        Facebook
+Twitter
+Instagram
+LinkedIn
+                    
+                    
+                        
+                        Site by Contra Agency
+                    
+                
+                
+                
+        
+        
+        		
+			#airpress_debugger {
+				width:100%;
+				font-family: monospace;
+				padding:50px;
+				font-size: 12px;
+				padding-top:100px;
+				display:none;
+				position: absolute;
+				top: 0px;
+				left: 0px;
+				color:#000000;
+				background-color: #f7f7f7;
+				z-index:99998;
+			}
+
+			#airpress_debugger .expander {
+				color: blue !important;
+			}
+			#airpress_debugger .expandable {
+				padding: 20px;
+				border: 1px dashed #cccccc;
+				display: none;
+				white-space: pre-wrap;
+			}
+		
+		
+		jQuery(document).ready(function(){
+			jQuery("#wp-admin-bar-airpress_debugger_toggle").click(function(e){
+				e.preventDefault();
+				jQuery("#airpress_debugger").toggle();
+				jQuery('html, body').animate({ scrollTop: 0 }, 'fast');
+			});
+
+			jQuery(".expander").click(function(e){
+				e.preventDefault();
+				jQuery(this).next().fadeToggle();
+			});
+		});
+		
+		
+				
+		
+
+AIRPRESS LOADED		
+		
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"page","leadinPluginVersion":"7.31.1"};
+/* ]]> */
+
+
+
+/* <![CDATA[ */
+var wpASPNG = {"iframeUrl":"https:\/\/cogx.co\/?asp_action=show_pp"};
+/* ]]> */
+
+
+
+	window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2b171193f1","applicationID":"314461994","transactionName":"YwcEZEZQWEVZUEYPDlpNJ1NAWFlYF0dCCkxACwVbUUVF","queueTime":0,"applicationTime":474,"atts":"T0AHEg5KS0s=","errorBeacon":"bam.nr-data.net","agent":""}
