@@ -2,10 +2,15 @@
 This is the MAFS 6010U project about NLP chatbot of our team Outliers.
 
 start.py: code to start the spider
+
 items.py: code of spider
+
 middlewares.py: code of spider
+
 pipelines.py: code of spider
+
 settings.py: code of spider
+
 text_process.py: code to process the data and run the chatbot
 
 
