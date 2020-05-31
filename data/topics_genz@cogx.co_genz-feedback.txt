@@ -1,0 +1,12 @@
+
+                                CogX is one of the biggest festivals of leadership, AI and emerging technology in the world. We’re expecting 30,000 people to attend our virtual festival on June 8-10 exploring topics from planet, leadership, cutting edge technology, ethics and the future of work. We’re running a GenZ stage and we’d love to hear what kinds of talks you’d like to see on it.
+Fill out this form, and send us your ideas. We’ll send you a free pass to log on to the festival. And, if we love your ideas, we’d love your help putting the session together and running it.
+
+
+
+  hbspt.forms.create({
+	portalId: "3321002",
+	formId: "8d5783ef-9aa8-4e67-b7a9-ce20eae390d2"
+});
+
+                            
